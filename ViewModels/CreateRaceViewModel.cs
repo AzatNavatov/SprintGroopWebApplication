@@ -7,6 +7,7 @@ namespace SprintGroopWebApplication.ViewModels
     {
         public int Id { get; set; }
         public int I { get; set; }
+        public int Lip { get; set; }
 
 
         public string Title { get; set; }
