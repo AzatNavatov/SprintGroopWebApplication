@@ -3,12 +3,9 @@ using SprintGroopWebApplication.Models;
 
 namespace SprintGroopWebApplication.ViewModels
 {
-    public class CreateRaceViewModel3
+    public class CreateRaceViewModel
     {
         public int Id { get; set; }
-        public int I { get; set; }
-        public int Lip { get; set; }
-
 
         public string Title { get; set; }
 
