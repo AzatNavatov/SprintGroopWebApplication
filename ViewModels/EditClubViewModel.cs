@@ -6,6 +6,7 @@ namespace SprintGroopWebApplication.ViewModels
 {
     public class EditClubViewModel
     {
+        public int Roll { get; set; }
         public int Id { get; set; }
         public string? Title { get; set; }
 
